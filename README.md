@@ -11,7 +11,7 @@
 
 
 # 💫 About Me:
-<a href="https://app.daily.dev/subhojitguin"><img align="right" src="https://api.daily.dev/devcards/v2/5ybAUlPiAg9xzd7sPJ1JD.png?r=n0c&type=default" width="200" alt="Subhojit Guin's Dev Card"/></a>
+<a href="https://app.daily.dev/subhojitguin"><img align="right" src="./devcard.png" width="200" alt="Subhojit Guin's Dev Card"/></a>
 <hr>
 🔭 I’m currently working on GenAI: LangChain and OpenAI API<br>👯 I’m looking to collaborate on GenAI and Cloud Computing on Platforms (like GCP, AWS, Azure)<br>🤝 I’m looking for help with Cloud Computing<br>🌱 I’m currently learning Cloud Computing<br>💬 Ask me about Python, Java, AIML, SQL, Django, Flask, API, RAG, Tensorflow, OpenCV, LangChain, Selenium, Git, Github<br>⚡ Fun fact: Did you know? The first computer 'bug' was a real insect! In 1947, engineers found a moth causing issues in the Harvard Mark II computer. They taped it in the logbook and coined the term 'debugging'!
 
