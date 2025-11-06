@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subhojit Guin</h1>
-<h3 align="center">Final-Year CSE Student | AI/ML & Backend Developer | Cloud Enthusiast</h3>
+<h3 align="center">Final-Year CSE Student | AI/ML & Full Stack Developer | Cloud Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/subhojit-guin-64a9b0269"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
