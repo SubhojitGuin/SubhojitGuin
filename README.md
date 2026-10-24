@@ -19,7 +19,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" align="right" />
 
-🎓 B.Tech Graduate in Computer Science & Engineering from **Institute of Engineering & Management, Kolkata (CGPA: 9.67/10)**.  
+🎓 B.Tech Graduate in Computer Science & Engineering from **Institute of Engineering & Management, Kolkata (DGPA: 9.66/10)**.  
 💼 Former **R&D Intern at Hyland Software** & **RPA Intern at Teoco**.  
 🔭 Crafting backend solutions with **Java & Spring Boot** and diving deep into **System Design, HLD, LLD, and Microservices** to build software that scales.  
 📚 **2x Scopus-indexed Research Publications** in computer vision & AI (Springer conference proceedings).  
